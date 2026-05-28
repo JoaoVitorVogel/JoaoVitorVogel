@@ -85,9 +85,9 @@ Currently, I’m looking for new opportunities where I can contribute as a devel
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVitorVogel&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovitorvogel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorVogel&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitorvogel&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -97,7 +97,7 @@ Currently, I’m looking for new opportunities where I can contribute as a devel
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/joão-vitor-vogel-293bb9230/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/joão-vitor-vogel-293bb9230/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:joaovitorvogel85@gmail.com)
 
